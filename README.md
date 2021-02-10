@@ -6,5 +6,5 @@ I also have experiance data analysis, mainly in the field of plant operation imo
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tiskw&show_icons=true&hide=issues,contribs&hide_border=True" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&hide_border=True" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&hide_border=True&langs_count=4&exclude_repo=tiskw.github.io" />
 </a>
