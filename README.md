@@ -1,4 +1,4 @@
-I'm a mathematical engineer at [Toyota Research Institute](https://www.tri.global/) as a secondee from [Aisin Seiki](https://www.aisin.com/),
+I'm a mathematical engineer at [Toyota Research Institute](https://www.tri.global/) as a secondee from [AISIN](https://www.aisin.com/en/),
 working on research and development of machine learning and image processing, e.g. driver monitoring system for vehicles.
 I also have experience in data analysis, mainly in the field of factory operation improvements.
 For more details, visit [my website](https://tiskw.github.io/about_en.html).
