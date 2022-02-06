@@ -1,5 +1,7 @@
-I'm a mathematical engineer at [Toyota Research Institute](https://www.tri.global/) as a secondee from [AISIN](https://www.aisin.com/en/),
-working on research and development of machine learning and image processing, e.g. driver monitoring system for vehicles.
+I'm a mathematical engineer at [Woven Planet Holdings](https://www.woven-planet.global/en) as a secondee from [AISIN](https://www.aisin.com/en),
+focusing all his efforts on making the world better through mathematics.
+
+Now I'm mainly working on research and development of machine learning and image processing, e.g. driver monitoring systems for vehicles.
 I also have experience in data analysis, mainly in the field of factory operation improvements.
 For more details, visit [my website](https://tiskw.github.io/about_en.html).
 
