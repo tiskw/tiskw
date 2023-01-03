@@ -7,5 +7,5 @@ For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
 <p align="center">
   <a href=""><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tiskw&hide_border=True" /></a>
-  <a href=""><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&layout=compact&hide_border=True" /></a>
+  <a href=""><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&layout=compact&hide_border=True&&exclude_repo=tiskw,tiskw.github.io" /></a>
 </p>
