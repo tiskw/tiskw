@@ -6,6 +6,6 @@ He also has experiences in data analysis, mainly in the field of factory operati
 For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
 <p align="center">
-  <a href=""><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tiskw&show_icons=true&hide=issues,contribs&count_private=true&hide_border=True&bg_color=0000&text_color=777" /></a>
-  <a href=""><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&hide_border=True&langs_count=4&exclude_repo=tiskw.github.io&layout=compact&bg_color=0000&text_color=777" /></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=tiskw&hide_border=True" /></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&layout=compact&hide_border=True" /></a>
 </p>
