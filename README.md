@@ -8,7 +8,7 @@ Now he is mainly working on research and development of machine learning and ima
 He also has experiences in data analysis, mainly in the field of factory operation improvements.
 For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
-GitHub Stats
+:bar_chart: GitHub Stats
 ----------------------------------------------------------------------------------------------------
 
 <p align="center"> 
@@ -16,7 +16,7 @@ GitHub Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&layout=compact&hide_border=true" alt="tiskw_stats" />
 </p>
 
-Languages and Tools
+:hammer_and_wrench: Skills & Tools
 ----------------------------------------------------------------------------------------------------
 
 <div>
@@ -55,7 +55,7 @@ Languages and Tools
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 </div>
 
-Get in Touch
+:handshake:	Get in Touch
 ----------------------------------------------------------------------------------------------------
 
 - LinkedIn: [https://www.linkedin.com/in/tetsuya-ishikawa-tiskw111/](https://www.linkedin.com/in/tetsuya-ishikawa-tiskw111/)
