@@ -1,9 +1,8 @@
 Tetsuya Ishikawa - @tiskw
 ====================================================================================================
 
-Tetsuya Ishikawa is a mathematical engineer at [Woven by Toyota](https://woven.toyota/en)
-as a secondee from [AISIN](https://www.aisin.com/en), focusing all his efforts on making
-the world better through mathematics.
+Tetsuya Ishikawa is a mathematical engineer at [GLORY LTD.](https://corporate.glory-global.com/),
+focusing all his efforts on making the world better through mathematics.
 
 Now he is mainly working on research and development of machine learning and image processing for driver monitoring systems of vehicles.
 He also has experiences in data analysis, mainly in the field of factory operation improvements.
