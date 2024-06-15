@@ -1,11 +1,13 @@
 Tetsuya Ishikawa - @tiskw
 ====================================================================================================
 
-Tetsuya Ishikawa is a mathematical engineer at [GLORY LTD.](https://corporate.glory-global.com/),
+Tetsuya Ishikawa is a research scientist of machine learning and applied mathematics at
+[GLORY LTD.](https://corporate.glory-global.com/),
 focusing all his efforts on making the world better through mathematics.
 
-Now he is mainly working on research and development of machine learning and image processing for driver monitoring systems of vehicles.
-He also has experiences in data analysis, mainly in the field of factory operation improvements.
+Now he is mainly engaged in research and development of machine learning technologies for robotics.
+He also has experience in data analysis and image processing, mainly in the fields of factory
+automation and driver monitoring systems, respectively.
 For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
 :bar_chart: GitHub Stats
