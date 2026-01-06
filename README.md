@@ -14,8 +14,7 @@ For more details, visit [his website](https://tiskw.github.io/about_en.html).
 ----------------------------------------------------------------------------------------------------
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiskw&show_icons=true&hide_border=true" alt="tiskw_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiskw&layout=compact&hide_border=true" alt="tiskw_stats" />
+  <img width="400" src="github-metrics.svg" alt="tiskw_stats" /> 
 </p>
 
 :hammer_and_wrench: Skills & Tools
