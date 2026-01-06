@@ -13,8 +13,9 @@ For more details, visit [his website](https://tiskw.github.io/about_en.html).
 :bar_chart: GitHub Stats
 ----------------------------------------------------------------------------------------------------
 
-<p align="center"> 
-  <img width="400" src="github-metrics.svg" alt="tiskw_stats" /> 
+<!-- https://github.com/lowlighter/metrics -->
+<p> 
+  <img width="450" src="github-metrics.svg" alt="tiskw_stats" /> 
 </p>
 
 :hammer_and_wrench: Skills & Tools
