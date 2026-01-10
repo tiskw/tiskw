@@ -17,7 +17,7 @@ jobs:
       contents: write
 
     steps:
-      - name: User Account
+      - name: Left image
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
@@ -25,6 +25,13 @@ jobs:
           template: classic
           base: header, repositories, metadata
           config_timezone: Asia/Tokyo
+      - name: Right image
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: activity
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 6
