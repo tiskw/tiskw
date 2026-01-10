@@ -10,14 +10,9 @@ He also has experience in data analysis and image processing, mainly in the fiel
 automation and driver monitoring systems, respectively.
 For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
-:bar_chart: GitHub Stats
-----------------------------------------------------------------------------------------------------
-
 <!-- https://github.com/lowlighter/metrics -->
-<p align="center"> 
-  <img width="410" src="metrics.classic.svg" alt="tiskw_github_metric_classic" />
-  &nbsp;
-  <img width="410" src="metrics.plugin.languages.svg" alt="tiskw_github_metric_language" /> 
+<p>
+  <img width="450px" src="metrics.classic.svg" alt="tiskw_github_metric_classic" />
 </p>
 
 :hammer_and_wrench: Skills & Tools
