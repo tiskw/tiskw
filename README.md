@@ -15,9 +15,9 @@ For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
 <!-- https://github.com/lowlighter/metrics -->
 <p align="center"> 
-  <img width="420" src="metrics.classic.svg" alt="tiskw_github_metric_classic" />
-  &nbsp;&nbsp;
-  <img width="420" src="metrics.plugin.languages.svg" alt="tiskw_github_metric_language" /> 
+  <img width="410" src="metrics.classic.svg" alt="tiskw_github_metric_classic" />
+  &nbsp;
+  <img width="410" src="metrics.plugin.languages.svg" alt="tiskw_github_metric_language" /> 
 </p>
 
 :hammer_and_wrench: Skills & Tools
