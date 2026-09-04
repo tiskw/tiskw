@@ -1,13 +1,13 @@
 Tetsuya Ishikawa - @tiskw
 ====================================================================================================
 
-Tetsuya Ishikawa is a research scientist of machine learning and applied mathematics at
+Tetsuya Ishikawa is a research scientist in machine learning and applied mathematics at
 [GLORY LTD.](https://corporate.glory-global.com/),
-focusing all his efforts on making the world better through mathematics.
+focusing all his efforts on making the world a better place through mathematics.
 
-Now he is mainly engaged in research and development of machine learning technologies for robotics.
-He also has experience in data analysis and image processing, mainly in the fields of factory
-automation and driver monitoring systems, respectively.
+​Currently, he works on R&D in physical AI and machine learning for robotics.
+His background also includes hands-on experience in data analysis for factory automation and
+image processing for driver monitoring systems.
 For more details, visit [his website](https://tiskw.github.io/about_en.html).
 
 <!-- https://github.com/lowlighter/metrics -->
