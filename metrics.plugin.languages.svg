@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="377.77846292984725" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="377.77846292984725" y="0" width="51.33159875667738" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="429.1100616865246" y="0" width="23.289483600885216" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.39954528740986" y="0" width="3.7196620373225175" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.1192073247324" y="0" width="3.103636102032846" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.22284342676517" y="0" width="0.7771565732347628" height="8" fill="#f0a9f0"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.30068318827233" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="376.30068318827233" y="0" width="52.819512454577655" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.12019564285" y="0" width="23.080401651783337" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.2005972946333" y="0" width="3.9164896548524246" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.1170869494857" y="0" width="3.112733420773586" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.2298203702593" y="0" width="0.7701796297407008" height="8" fill="#f0a9f0"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,8 +38,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>2.88 MB</div>
-                                <div>82.13%</div>
+                                <div>2.89 MB</div>
+                                <div>81.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>177 kB</div>
-                                <div>5.06%</div>
+                                <div>5.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,8 +62,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>23.6 kB</div>
-                                <div>0.67%</div>
+                                <div>23.9 kB</div>
+                                <div>0.68%</div>
                             </small>
                         </div>
                     </section>
@@ -76,8 +76,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>390 kB</div>
-                                <div>11.16%</div>
+                                <div>405 kB</div>
+                                <div>11.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,8 +88,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>28.3 kB</div>
-                                <div>0.81%</div>
+                                <div>30 kB</div>
+                                <div>0.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
